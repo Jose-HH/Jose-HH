@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jose-HH
-- 👀 I’m interested in Embedded Systems
+- 👀 I’m interested in Embedded Systems, Networking, Parallel computing
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on open source C/C++ and linux projects
 - 📫 How to reach me LinkedIN
